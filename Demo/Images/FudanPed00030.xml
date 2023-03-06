@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test_Dataset</folder>
+	<filename>FudanPed00030.jpg</filename>
+	<path>C:\Users\JNTUA\Downloads\Pedestrian_Dataset_hitty\Test_Dataset\FudanPed00030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>74</ymin>
+			<xmax>218</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

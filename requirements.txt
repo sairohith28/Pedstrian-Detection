@@ -1,0 +1,15 @@
+pathlib
+numpy
+urllib
+sys
+tarfile
+tensorflow 
+zipfile
+pandas
+defaultdict
+StringIO
+matplotlib 
+Image
+cv2
+glob
+object_detection
